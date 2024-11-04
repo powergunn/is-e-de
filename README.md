@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt="is-a.dev Banner" src="https://raw.githubusercontent.com/powergunn/is-e-de/refs/heads/main/banner.png">
+   <img alt="is-e.de Banner" src="https://raw.githubusercontent.com/powergunn/is-e-de/refs/heads/main/banner.png">
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
    <img alt="Publish" src="https://github.com/is-a-dev/register/actions/workflows/publish.yml/badge.svg">
 </p>
 
-<h1 align="center">is-a.dev</h1>
+<h1 align="center">is-e.de</h1>
 
-<p align="center"><strong>is-a-dev</strong> is a service that allows developers to get a sweet-looking ".is-a.dev" domain for their personal websites.</p>
+<p align="center"><strong>is-e-de</strong> is a service that allows developers to get a sweet-looking ".is-e.de" domain for their personal websites.</p>
 
 [![Publish](https://github.com/is-a-dev/register/actions/workflows/publish.yml/badge.svg)](https://github.com/is-a-dev/register/actions/workflows/publish.yml)
 
@@ -37,17 +37,17 @@ When applying for NS records, please consider if you *actually* need them. Pleas
    - Simply add `"proxied": true` to your file, to enable Cloudflare's Enterprise-level DDoS protection for your subdomain.
    - Note: We *may* allow certain users to register NS records if it would expose their home IP.
 
-For any questions regarding NS records, feel free to email support@is-a.dev.
+For any questions regarding NS records, feel free to email support@is-e.de.
 
 ## Manual Registration
 > If you want a more visual guide, check out [this blog post](https://wdh.gg/tX3ghge).
 
 - [Fork](https://github.com/is-a-dev/register/fork) and star this repository
-- Add a new file called `your-domain-name.json` in the `domains` folder to register `your-domain-name.is-a.dev`
-- [Read the documentation](https://is-a.dev/docs)
+- Add a new file called `your-domain-name.json` in the `domains` folder to register `your-domain-name.is-e.de`
+- [Read the documentation](https://is-e.de/docs)
 - Your pull request will be reviewed and merged. *Make sure to keep an eye on it incase we need you to make any changes!*
 - After the pull request is merged, please allow up to 24 hours for the changes to propagate
-- Enjoy your new `.is-a.dev` domain!
+- Enjoy your new `.is-e.de` domain!
 
 ## Automated Registration
 ***Returning soon.*** Join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) for updates.
@@ -55,7 +55,7 @@ For any questions regarding NS records, feel free to email support@is-a.dev.
 # Issues
 If you have any problems, feel free to [open an issue](https://github.com/is-a-dev/register/issues/new/choose).
 
-If you have an issue that contains confidental infomation, send an email to security@is-a.dev.
+If you have an issue that contains confidental infomation, send an email to security@is-e.de.
 
 ---
 
